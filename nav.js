@@ -244,24 +244,35 @@
     {
       label: 'Models',
       children: [
-        { label: 'IL-09 Dem Primary', href: 'IL09_precinct_map.html' },
+        { label: '26 IL-09 Dem Primary', href: 'IL09_precinct_map.html' },
       ],
     },
     {
       label: 'Full Election Results',
       children: [
-        { label: 'IL-09 Dem Primary', href: 'IL09_actual_results_map.html' },
-        { label: 'IL-09 Dem Primary Turnout', href: 'IL09_turnout_map.html' },
+        { label: '26 IL-09 Dem Primary', href: 'IL09_actual_results_map.html' },
+        { label: '26 IL-09 Dem Primary Turnout', href: 'IL09_turnout_map.html' },
+        { label: '26 Dem Cook County Board President Primary', href: 'board_president_map_2026.html' },
+        { label: '26 Dem Cook County Assessor Primary', href: 'assessor_map_2026.html' },
+        { label: '2015–2023 Mayoral Elections', href: 'Chicago Mayor.html' },
       ],
     },
     {
       label: 'Elections within Chicago',
       children: [
-        { label: '2015–2023 Mayoral Elections', href: 'Chicago Mayor.html' },
         { label: '26 GOP Gov Primary', href: 'gop_gov_primary_map_2026.html' },
         { label: '26 GOP Senate Primary', href: 'gop_sen_primary_map_2026.html' },
         { label: '26 DEM Senate Primary', href: 'dem_sen_primary_map_2026.html' },
         { label: '26 DEM Comptroller Primary', href: 'dem_comp_primary_map_2026.html' },
+      ],
+    },{
+      label: 'Elections within Cook County',
+      children: [
+        { label: '26 GOP Gov Primary', href: 'cook_gop_gov_primary_map_2026.html' },
+        { label: '26 GOP Senate Primary', href: 'cook_gop_sen_primary_map_2026.html' },
+        { label: '26 DEM Senate Primary', href: 'cook_dem_sen_primary_map_2026.html' },
+        { label: '26 Senate Primary Party-Split', href: 'cook_sen_party_split_2026.html' },
+        { label: '26 Governor Primary Party-Split', href: 'cook_gov_party_split_2026.html' },
       ],
     },
   ];
