@@ -250,11 +250,15 @@
     {
       label: 'Full Election Results',
       children: [
-        { label: '26 IL-09 Dem Primary', href: 'IL09_actual_results_map.html' },
+        { label: '26 IL-09 Dem Primary (Schakowsky)', href: 'IL09_actual_results_map.html' },
         { label: '26 IL-09 Dem Primary Turnout', href: 'IL09_turnout_map.html' },
-        { label: '26 Dem Cook County Board President Primary', href: 'board_president_map_2026.html' },
-        { label: '26 Dem Cook County Assessor Primary', href: 'assessor_map_2026.html' },
+        { label: '26 Dem Cook County Board President Primary (Preckwinkle)', href: 'board_president_map_2026.html' },
+        { label: '26 Dem Cook County Assessor Primary (Kaegi)', href: 'assessor_map_2026.html' },
         { label: '2015–2023 Mayoral Elections', href: 'Chicago Mayor.html' },
+        { label: '26 Cook County Board of Review District 2 Primary (Steele)', href: 'BOR_D2_primary_map_2026.html' },
+        { label: '26 Cook County Board of Commissioners District 10 Primary (Gainer)', href: 'BOC_D10_primary_map_2026.html' },
+        { label: '26 State Senate District 6 Primary (Feigenholz)', href: '6th_Senate_primary_map_2026.html' },
+        { label: '26 State House District 13 Primary (Huyhn)', href: 'IL_house_D13_primary_map_2026.html' },
       ],
     },
     {
