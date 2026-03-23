@@ -268,9 +268,9 @@
     },{
       label: 'Elections within Cook County',
       children: [
-        { label: '26 GOP Gov Primary', href: 'cook_gop_gov_primary_map_2026.html' },
-        { label: '26 GOP Senate Primary', href: 'cook_gop_sen_primary_map_2026.html' },
-        { label: '26 DEM Senate Primary', href: 'cook_dem_sen_primary_map_2026.html' },
+        { label: '26 GOP Gov Primary', href: 'cook_gop_gov_map_2026.html' },
+        { label: '26 GOP Senate Primary', href: 'cook_gop_sen_map_2026.html' },
+        { label: '26 DEM Senate Primary', href: 'cook_dem_sen_map_2026.html' },
         { label: '26 Senate Primary Party-Split', href: 'cook_sen_party_split_2026.html' },
         { label: '26 Governor Primary Party-Split', href: 'cook_gov_party_split_2026.html' },
       ],
